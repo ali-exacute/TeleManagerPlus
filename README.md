@@ -1,3 +1,5 @@
+This was one of my first projects i worked on back in the day, just forked it back to my main account from my old account to preserve it in 1 place :)
+
 ```sh
 # Install dependencies.
 # Tested on Ubuntu 14.04. For other OSs, check out https://github.com/yagop/telegram-bot/wiki/Installation
